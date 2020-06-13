@@ -1,0 +1,40 @@
+.navbar-nav {
+  margin-left: 56%;
+}
+
+img {
+  margin-left: 27px;
+}
+
+.navbar-nav .nav-link {
+  margin: 0 15px;
+  font-family: sans-serif;
+    font-size: larger;
+ 
+}
+h4{
+  text-align: center;
+  color: #4169A4 ;
+  font-size: 47px;
+}
+.header1{
+  margin-top: 20px;
+  margin-left: 30%;
+  margin-right: 30%;
+
+}
+.header{
+  margin-top:8%;
+  margin-left: 30%;
+  margin-right: 30%;
+
+}
+
+.btn{
+  background-color:#F7B845  ;
+ width: 30%;
+}
+
+input{
+  margin-top: 8%;
+}
