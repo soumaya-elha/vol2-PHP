@@ -27,7 +27,7 @@
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
         <a class="nav-item nav-link " href="index.php">Acceuil</a>
-        <a class="nav-item nav-link " href="vols.php">Notre vols</a>
+        
         <?php
         // echo $row;
         if (isset($_SESSION['admin']) || isset($_SESSION['user'])) {
